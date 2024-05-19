@@ -1,0 +1,11 @@
+# Importing the math module for mathematical operations
+import math
+
+# Defining the orbital radius of Mars in astronomical units (AU)
+mars_orbital_radius = 1.524
+
+# Calculating the square of Mars' orbital radius
+mars_square = mars_orbital_radius ** 2
+
+# Printing the result
+print("The square of Mars' orbital radius is:", mars_square)
